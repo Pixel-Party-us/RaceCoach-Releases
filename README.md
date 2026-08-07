@@ -1,14 +1,10 @@
-# RaceCoach — updates
+# RaceCoach — version file
 
-**[Download the latest update](https://github.com/Pixel-Party-us/RaceCoach-Releases/releases/latest)** — grab the `RaceCoach-Update-*.zip` under Assets.
+This repository holds ONE thing: `racecoach-latest.json`, the tiny public
+version file the RaceCoach app reads when you press **Check for updates**.
 
-To install an update: extract the zip anywhere, double-click `UPDATE-RaceCoach.cmd`, answer **Y**.
-It finds your RaceCoach install by itself, replaces only the app, and never touches your
-settings, API key, recorded races or the AI models. The previous version is kept beside the
-install for one-click rollback.
+There is nothing to download here. RaceCoach itself is not distributed on the
+open internet — if you have the app, updates come from the same place you got
+it, and the app tells you when one is waiting.
 
-Inside RaceCoach, **Settings -> About -> Updates -> Check for updates** does all of this for you —
-the app already knows this page.
-
-This repository carries compiled releases only. RaceCoach is written and developed by
-**Pixel Party** — all rights reserved.
+RaceCoach is written and developed by **Pixel Party** — all rights reserved.
