@@ -1,4 +1,4 @@
 {
-  "version": "2.4.2",
-  "notes": "RaceCoach v2.4.2 (2026-08-08) - voices fixed for good, iRacing spotter, remote-repair debug bundle"
+  "version": "2.4.3",
+  "notes": "RaceCoach v2.4.3 (2026-08-08) - the coach works on iRacing; recorder truth fixes for AMS2/ACC/F1"
 }
