@@ -1,4 +1,4 @@
 {
-  "version": "2.4.6",
-  "notes": "RaceCoach v2.4.6 (2026-08-10) - short spoken refusals with a chirp; full detail stays in the transcript"
+  "version": "2.4.7",
+  "notes": "RaceCoach v2.4.7 (2026-08-10) - spotter sides un-mirrored (engine labels); session questions never answered from notes pages"
 }
