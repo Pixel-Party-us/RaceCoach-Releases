@@ -1,4 +1,4 @@
 {
-  "version": "2.6.0",
-  "notes": "RaceCoach v2.6.0 (2026-08-11) - leave feedback notes on any section and they ride into the debug report, a Favourites tab, say \"pin this\" to mark a moment mid-race, the coach now keeps what it learns from corrections across updates, control over what a debug report sends, plus three fixes: a fabricated pit loss spoken as measured, incident reports naming the wrong car, and the offline spotter panel labelling sides backwards"
+  "version": "2.7.0",
+  "notes": "RaceCoach v2.7.0 (2026-08-12)"
 }
