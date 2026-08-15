@@ -1,4 +1,4 @@
 {
-  "version": "2.8.1",
-  "notes": "RaceCoach v2.8.1 - the coach no longer answers a question you did not ask, and the Settings text reads as words instead of code."
+  "version": "2.9.0",
+  "notes": "RaceCoach v2.9.0 - your race was recorded; the app was showing you the wrong folder. Fixed, and every recording now says how much it got."
 }
