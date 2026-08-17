@@ -1,4 +1,4 @@
 {
-  "version": "2.9.0",
-  "notes": "RaceCoach v2.9.0 - your race was recorded; the app was showing you the wrong folder. Fixed, and every recording now says how much it got."
+  "version": "2.10.0",
+  "notes": "RaceCoach v2.10.0 - your 23.5-minute Daytona race recorded as ONE session, 22,300 snapshots, no second folder. Recorder v5.8 fixes a good session reporting itself empty; fully restart SimHub after updating."
 }
