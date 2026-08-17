@@ -1,4 +1,4 @@
 {
-  "version": "2.10.0",
-  "notes": "RaceCoach v2.10.0 - your 23.5-minute Daytona race recorded as ONE session, 22,300 snapshots, no second folder. Recorder v5.8 fixes a good session reporting itself empty; fully restart SimHub after updating."
+  "version": "2.11.0",
+  "notes": "RaceCoach v2.11.0 - the gap to the car ahead is now the measured stopwatch number, not a distance estimate. Every answer records its working, so a number you dispute can be checked instead of argued about."
 }
